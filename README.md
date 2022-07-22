@@ -1,2 +1,2 @@
-# .github
+# Sora
 The design process of Sora.
